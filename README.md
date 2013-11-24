@@ -4,12 +4,10 @@ BIODATA
 <html>
 	<head>
 	
-	<img src="11-14-2013 4-31-23 PM_0000."/>
+	<img src="orig.jpg"/>
 	
 <h4>Name:Sarah Sendingan </h4></head>
 	<body>
-
-	
 
 	 	<p><b> Gender: Female</p> 
 	 
